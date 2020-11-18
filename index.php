@@ -11,7 +11,6 @@
  echo "<br><br>prueba 2";
  echo "<hr>";
  echo "<br><h1>HELLO WORLD</h1>2";
- echo "<hr><br><h1>PRUEBA ADUANA</h1>2";
  echo "</body>";
 
 ?>
