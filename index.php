@@ -10,7 +10,7 @@
  echo "<hr>";
  echo "<hr>";
  echo "<br><h1>HELLO WORLD</h1>";
- echo "<br><hr><h1>Bienvenido a PUNTOFARMA</h1>";
+ echo "<br><hr><hr><h1>Bienvenido a <b>ENDE</b></h1>";
  echo "</body>";
 
 ?>
