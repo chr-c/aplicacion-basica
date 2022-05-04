@@ -9,7 +9,7 @@
  echo "<hr>";
  echo "<hr>";
  echo "<br><h1>Hola a TODOS</h1>";
- echo "<br><hr><hr><h1>Bienvenidos a <b> BANCO UNION !!!</b></h1>";
+ echo "<br><hr><hr><h1>Bienvenidos a <b> BANCO Familiar !!!</b></h1>";
  echo "<hr>";
  echo "</body>";
 
